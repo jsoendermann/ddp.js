@@ -1,5 +1,5 @@
 {
-  "name": "ddp.js",
+  "name": "jsoendermann-ddp.js",
   "version": "2.2.0",
   "description": "ddp javascript client",
   "main": "lib/ddp.js",
